@@ -1,2 +1,3 @@
-# hello-word
-Practice Repository
+# hello-world
+
+Hello World!
